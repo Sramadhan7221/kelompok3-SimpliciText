@@ -28,7 +28,7 @@ Ikuti langkah-langkah berikut untuk menjalankan SimpliciText di lingkungan lokal
 ### 1. Clone Repository
 ```bash
 git clone https://github.com/Sramadhan7221/kelompok3-SimpliciText.git
-cd simplicitext
+cd kelompok3-SimpliciText
 ```
 
 ### 2. Buat Virtual Environment
